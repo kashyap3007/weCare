@@ -3,8 +3,6 @@ weCare is a Health Care website . It Consists of Interactive and totally respons
 
 # This is my Final FRT project
 
- Github Pages :
- 
  Azure Link : https://kind-grass-0a4c75410.1.azurestaticapps.net/
 
 ## Some if the best parts about weCare:
