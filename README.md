@@ -8,12 +8,18 @@ weCare is a Health Care website . It Consists of Interactive and totally respons
 ## Some if the best parts about weCare:
 
 🥷Appointment Section
-It suggests you doctor according to your need. If you want to search any doctor for Diabeties , Then the doctor selecting option only suggests you diabetic specialist.
+
+ Appointment section is basically a form which contains some inputs like specialisation and doctors list. we didnt added backend yet but soon it can be added.
 
 🥷 Medicine Page
+
 Medicine Page is the Information page about each and every medicine. As this is demo project , It contains only few medicines. Apart from information , The medicine page
 have Buy now option which will redirect you to a purchasing page where you will purchase your medicine.
 
+🥷 Why This ?
+
+Any hospital / medical unit / Hospitals association can choose this website and changed them accordingly. It contains all the basic features along with
+an embeded map for resolving address issue.
 
 ## 🥷 Screenshots
 
